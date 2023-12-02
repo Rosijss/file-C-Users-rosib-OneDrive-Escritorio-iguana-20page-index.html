@@ -1,0 +1,104 @@
+.header {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.iguana {
+    width: 100%;
+}
+
+.box {
+    display: flex;
+    text-align: left;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+
+.principal {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 50%;
+    margin-top: 60%px;
+    padding: 50%px;
+}
+
+.iguana2 {
+    width: 398px;
+    padding: 50px;
+}
+
+.caracteristicas {
+    background: #1E1A13;
+    display: flex;
+    flex-direction: column;
+
+}
+.contenedor-titulo {
+    display: flex;
+    justify-content: center;
+
+}
+.contenedor-iconos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.iconos {
+    text-align: center;
+}
+.flex-container {
+    padding-top: 50px;
+    left: 50px;
+    display: flex;
+    text-align: center;
+}
+
+.fa-solid .fa-eye .flex-item {
+    width: 200px;
+    height: 37px;
+    padding-top: 50%px;
+    padding-bottom: 50%px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+}
+
+.car2 {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.footer {
+    padding: 20px;
+    background: #1E1A13;
+    display: flex;
+    justify-content: center;
+}
+
+.iguana3 {
+    top: 1561px;
+    left: 150px;
+    width: 316px;
+    height: 202px;
+    padding: 50px;
+}
+
+.iguana4 {
+    top: 1561px;
+    left: 150px;
+    width: 316px;
+    height: 202px;
+    padding: 50px;
+}
+
+.iguana5 {
+    top: 1561px;
+    left: 150px;
+    width: 316px;
+    height: 202px;
+    padding: 50px;
+}
